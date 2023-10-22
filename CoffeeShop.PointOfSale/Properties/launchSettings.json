@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoffeeShop.PointOfSale": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\bedon\\source\\repos\\CoffeeShop.PointOfSale\\CoffeeShop.PointOfSale\\"
+    }
+  }
+}
